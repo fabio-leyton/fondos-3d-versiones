@@ -1,0 +1,22 @@
+{
+  "codigo": 7,
+  "version": "0.6.0",
+  "codigoMinimo": 0,
+  "apk": "https://github.com/fabio-leyton/fondos-3d-versiones/releases/download/v0.6.0/fondos3d-0.6.0.apk",
+  "sha256": "34b162d44472775e7be25063fd5d0bf5403f867b1c2aed6c0a1f876e0f9f5249",
+  "notas": {
+    "version": "0.6.0",
+    "codigo": 7,
+    "fecha": "2026-11-23",
+    "obligatoria": false,
+    "novedades": [
+      "Diseño nuevo, oscuro con neón.",
+      "Dos formas de ver tus fondos: en galería o en grande. Cambia con el ícono de arriba.",
+      "La app avisa cuando hay una versión nueva y la instala desde ahí mismo (tus fondos no se borran)."
+    ],
+    "mejoras": [
+      "Ahora funciona desde Android 11."
+    ],
+    "correcciones": []
+  }
+}
